@@ -17,7 +17,7 @@ In this project, I built a serverless web application using AWS Lambda, DynamoDB
 * Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript). 
 * Create a CloudFront distribution to serve the S3-hosted static files with low latency. 
 
-### Expected Outcome:
+### Outcome:
 
 Upon completing the project, I had a working serverless web application hosted on AWS.
 This project helped me improve my skills in cloud computing, serverless architecture, and AWS services.
